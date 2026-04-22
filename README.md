@@ -6,8 +6,8 @@ A space-themed idle/incremental game developed in GDScript using the Godot 4 eng
 
 
 
-The "space-themed-incremental-game" folder is the final version. The Runnable game folder, has an exe that can be run if the folder is downloaded, and is a copy of the game. The two zip files are godot project exports, and there is no v1 or v2 as github doesn't like large files. (they were large due to the pyforgodot extension, which was removed in v3)
-
+The Runnable game folder, has an exe that can be run if the folder is downloaded, and is a copy of the game. The two zip files are godot project exports, and there is no v1 or v2 as github doesn't like large files. (they were large due to the pyforgodot extension, which was removed in v3)
+The "Space Themed Incremental Game.zip" file is the project export from godot
 
 
 Built With
