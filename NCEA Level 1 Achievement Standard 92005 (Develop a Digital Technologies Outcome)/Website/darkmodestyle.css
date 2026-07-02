@@ -1,18 +1,18 @@
 :root {
-  --crust: oklch(91% 1% 265); /*catppuccin-crust*/
-  --mantle: oklch(93% 1% 265); /*catppuccin-mantle*/
-  --base: oklch(96% 1% 265); /*catppuccin-base*/
-  --div-0: oklch(86% 1% 268); /*catppuccin-surface0*/
-  --div-1: oklch(81% 2% 271); /*catppuccin-surface1*/
-  --div-2: oklch(76% 2% 273); /*catppuccin-surface2*/
-  --card-0: oklch(71% 2% 275); /*catppuccin-overlay0*/
-  --card-1: oklch(65% 3% 278); /*catppuccin-overlay1*/
-  --overlay: oklch(60% 3% 279); /*catppuccin-overlay2*/
-  --subtext-0: oklch(55% 3% 279); /*catppuccin-subtext0*/
-  --subtext-1: oklch(49% 4% 279); /*catppuccin-subtext1*/
-  --text: oklch(44% 4% 279); /*catppuccin-text*/
-  --accent-pink: oklch(88% 17% 338); /*catppuccin-pink + 15% lightness*/
-  --accent-mauve: oklch(70% 25% 297); /*catppuccin-mauve + 15% lightness*/
+  --crust: oklch(22% 3% 281); /*catppuccin-crust*/
+  --mantle: oklch(25% 3% 278); /*catppuccin-mantle*/
+  --base: oklch(28% 4% 277); /*catppuccin-base*/
+  --div-0: oklch(35% 4% 276); /*catppuccin-surface0*/
+  --div-1: oklch(43% 4% 277); /*catppuccin-surface1*/
+  --div-2: oklch(49% 4% 276); /*catppuccin-surface2*/
+  --card-0: oklch(56% 4% 276); /*catppuccin-overlay0*/
+  --card-1: oklch(63% 4% 274); /*catppuccin-overlay1*/
+  --overlay: oklch(69% 4% 275); /*catppuccin-overlay2*/
+  --subtext-0: oklch(75% 4% 274); /*catppuccin-subtext0*/
+  --subtext-1: oklch(81% 5% 274); /*catppuccin-subtext1*/
+  --text: oklch(87% 5% 274); /*catppuccin-text*/
+  --accent-pink: oklch(78% 17% 338); /*catppuccin-pink + 5% lightness*/
+  --accent-mauve: oklch(60% 25% 297); /*catppuccin-mauve + 5% lightness*/
 }
 
 html {
