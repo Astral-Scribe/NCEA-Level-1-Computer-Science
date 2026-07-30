@@ -61,6 +61,7 @@ body {
     background-color: var(--accent-pink);
     display: flex;
     justify-content: space-around;
+    overflow: auto;
     .navbar_item {
       border-color: oklch(from var(--accent-pink) calc(l - 0.1) c h);
       border-width: 0px 0.5px;

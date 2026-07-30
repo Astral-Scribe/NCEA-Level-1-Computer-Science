@@ -42,9 +42,9 @@ body {
 body {
   background-color: var(--base);
   color: var(--text);
-  display: flex;
+  display: flex;  
   flex-direction: column;
-  min-height: 100vh;
+  height: 100vh;
 }
 .headersection {
   .sitetitle {
@@ -61,6 +61,7 @@ body {
     background-color: var(--accent-pink);
     display: flex;
     justify-content: space-around;
+    overflow: auto;
     .navbar_item {
       border-color: oklch(from var(--accent-pink) calc(l - 0.1) c h);
       border-width: 0px 0.5px;
@@ -78,7 +79,7 @@ body {
     :last-child {
       border-right: 0px;
     }
-    width: 60%;
+    max-width: 60%;
     margin: 1% auto;
     scale: 120%;
   }
@@ -157,7 +158,6 @@ body {
       }
     }
   }
-  background-color: var(--mantle);
   margin-top: auto;
   padding: 10px;
   display: grid;
@@ -166,6 +166,7 @@ body {
     "linksections linksections linksections "
     ". copyright themeswitcher";
   align-items: center;
+  background-color: var(--mantle);
 }
 
 /* Homepage styles */
